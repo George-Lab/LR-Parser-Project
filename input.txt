@@ -1,0 +1,12 @@
+2 2 3
+SA
+ab
+S->aA
+A->b
+S->ab
+S
+4
+ab
+aab
+a
+b
